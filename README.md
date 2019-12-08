@@ -29,10 +29,17 @@ Mac: `Ctrl+Shift+H`
 
 ## Screenshots
 
+### Home Assistant Not Found
 ![HA not found on page](https://github.com/warwickofthegh/Browser-Extension-Home-Assistant-Quick-Restart/blob/master/screenshots/screenshot-nothapage.png)
+
+### Config Error
 
 ![Config Error](https://github.com/warwickofthegh/Browser-Extension-Home-Assistant-Quick-Restart/blob/master/screenshots/screenshot-configerror.png)
 
-![In Prgress](https://github.com/warwickofthegh/Browser-Extension-Home-Assistant-Quick-Restart/blob/master/screenshots/screenshot-inprogess.png)
+### In Progress
+
+![In Progress](https://github.com/warwickofthegh/Browser-Extension-Home-Assistant-Quick-Restart/blob/master/screenshots/screenshot-inprogress.png)
+
+### Completed
 
 ![Completed](https://github.com/warwickofthegh/Browser-Extension-Home-Assistant-Quick-Restart/blob/master/screenshots/screenshot-completed.png)
