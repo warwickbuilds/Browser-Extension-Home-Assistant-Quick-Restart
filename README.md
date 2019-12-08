@@ -1,5 +1,5 @@
-# Home Assistant Quick Rest Browser Extension
-Simple page action browser extension that allows you to quickly restart Home Assitant if an instance is detect on the active page.
+# Home Assistant Quick Restart Browser Extension
+Simple page action browser extension that allows you to quickly restart Home Assistant if an instance is detect on the active page.
 
 If button is active a Home Assistant instance has been detected and when click a configuration check will first be performed and if successful a restart will be called.
 
