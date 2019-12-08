@@ -18,6 +18,7 @@ If Home Assistant is detected on the active broswer page, the buttion with becom
 There is also keyboard shortcut available to save that transition time between keyboard and mouse.
 
 Windows / Default: `Ctrl+Shift+H`
+
 Mac: `Ctrl+Shift+H`
 
 ## Installation
@@ -28,10 +29,10 @@ Mac: `Ctrl+Shift+H`
 
 ## Screenshots
 
-![HA not found on page](https://github.com/warwickofthegh/Browser-Extension-Home-Assistant-Quick-Restart/blob/master/screenshots/screeshot-nothapage.png)
+![HA not found on page](https://github.com/warwickofthegh/Browser-Extension-Home-Assistant-Quick-Restart/blob/master/screenshots/screenshot-nothapage.png)
 
-![Config Error](https://github.com/warwickofthegh/Browser-Extension-Home-Assistant-Quick-Restart/blob/master/screenshots/screeshot-configerror.png)
+![Config Error](https://github.com/warwickofthegh/Browser-Extension-Home-Assistant-Quick-Restart/blob/master/screenshots/screenshot-configerror.png)
 
-![In Prgress](https://github.com/warwickofthegh/Browser-Extension-Home-Assistant-Quick-Restart/blob/master/screenshots/screeshot-inprogess.png)
+![In Prgress](https://github.com/warwickofthegh/Browser-Extension-Home-Assistant-Quick-Restart/blob/master/screenshots/screenshot-inprogess.png)
 
-![Completed](https://github.com/warwickofthegh/Browser-Extension-Home-Assistant-Quick-Restart/blob/master/screenshots/screeshot-completed.png)
+![Completed](https://github.com/warwickofthegh/Browser-Extension-Home-Assistant-Quick-Restart/blob/master/screenshots/screenshot-completed.png)
