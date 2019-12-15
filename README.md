@@ -25,7 +25,11 @@ Mac: `Ctrl+Shift+H`
 
 ### Chromium Basesed Browser (Chrome / Edge / Brave)
 
+[<img src="https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png">](https://chrome.google.com/webstore/detail/home-assistant-quick-rest)
+
 ### Firefox
+
+[![Firefox Add-on](https://addons.cdn.mozilla.net/static/img/addons-buttons/AMO-button_1.png)](https://addons.mozilla.org/en-US/firefox/addon/home-assistant-quick-restart)
 
 ## Screenshots
 
