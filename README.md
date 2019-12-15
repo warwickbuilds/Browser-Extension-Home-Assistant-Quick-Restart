@@ -10,7 +10,7 @@ If button is active a Home Assistant instance has been detected and when click a
 
 ### Chromium Based Browser (Chrome / Edge / Brave)
 
-[<img src="https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png">](https://chrome.google.com/webstore/detail/home-assistant-quick-rest)
+[<img src="https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png">](https://chrome.google.com/webstore/detail/home-assistant-quick-rest/eoekhnolflkjbpiafambpfemogdidlch)
 
 ### Firefox
 
