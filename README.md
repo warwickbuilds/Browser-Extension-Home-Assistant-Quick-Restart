@@ -56,4 +56,5 @@ Mac: `Ctrl+Shift+H`
 ## Support
  
 If you found value in this I thrive on coffee!
+
 [<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" >](https://www.buymeacoffee.com/ZRQ2mkM5XJp)
