@@ -5,6 +5,19 @@ If button is active a Home Assistant instance has been detected and when click a
 
 - Only tested with HASSio via direct access or Nuba Casa remote link (Let me know if it works/doesn't work with other access method and Home Assistant)
 
+
+## Installation
+
+### Chromium Based Browser (Chrome / Edge / Brave)
+
+[<img src="https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png">](https://chrome.google.com/webstore/detail/home-assistant-quick-rest)
+
+### Firefox
+
+[![Firefox Add-on](https://addons.cdn.mozilla.net/static/img/addons-buttons/AMO-button_1.png)](https://addons.mozilla.org/en-US/firefox/addon/home-assistant-quick-restart)
+
+
+
 ## Using Extension
 
 ### Button Click
@@ -21,15 +34,6 @@ Windows / Default: `Ctrl+Shift+H`
 
 Mac: `Ctrl+Shift+H`
 
-## Installation
-
-### Chromium Basesed Browser (Chrome / Edge / Brave)
-
-[<img src="https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png">](https://chrome.google.com/webstore/detail/home-assistant-quick-rest)
-
-### Firefox
-
-[![Firefox Add-on](https://addons.cdn.mozilla.net/static/img/addons-buttons/AMO-button_1.png)](https://addons.mozilla.org/en-US/firefox/addon/home-assistant-quick-restart)
 
 ## Screenshots
 
@@ -47,3 +51,9 @@ Mac: `Ctrl+Shift+H`
 ### Completed
 
 ![Completed](https://github.com/warwickofthegh/Browser-Extension-Home-Assistant-Quick-Restart/blob/master/screenshots/screenshot-completed.png)
+
+
+## Support
+ 
+If you found value in this I thrive on coffee!
+[<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" >](https://www.buymeacoffee.com/ZRQ2mkM5XJp)
