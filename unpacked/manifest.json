@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Home Assistant Quick Restart",
-    "description": "This extension enabled a quick one button check config and restart of an Home Assistant instance found in active browser tab",
+    "description": "Checks the config and restarts Home Assistant found in active browser tab with single button quick access, no configuration required",
     "version": "2.0",
     "author": "Warwick Ward",
     "homepage_url": "https://github.com/warwickofthegh/Browser-Extension-Home-Assistant-Quick-Restart",
