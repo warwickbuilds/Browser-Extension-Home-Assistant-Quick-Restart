@@ -8,17 +8,17 @@ If button is active a Home Assistant instance has been detected and when click a
 
 ## Installation
 
-### Chromium Based Browser (Chrome / Edge / Brave)
+#### Chromium Based Browser (Chrome / Edge / Brave)
 
 [<img src="https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png">](https://chrome.google.com/webstore/detail/home-assistant-quick-rest/eoekhnolflkjbpiafambpfemogdidlch)
 
-### Firefox
+#### Firefox
 
 [![Firefox Add-on](https://addons.cdn.mozilla.net/static/img/addons-buttons/AMO-button_1.png)](https://addons.mozilla.org/en-US/firefox/addon/home-assistant-quick-restart)
 
 
 
-## Using Extension
+## Using The Extension
 
 ### Button Click
 
@@ -26,7 +26,7 @@ If Home Assistant is detected on the active broswer page, the buttion with becom
 
 ![Gif-Button Restart](https://github.com/warwickofthegh/Browser-Extension-Home-Assistant-Quick-Restart/blob/master/screenshots/gif-buttonclick.gif)
 
-### Keyboard Shortcut
+### Keyboard Shortcuts
 
 There is also keyboard shortcut available to save that transition time between keyboard and mouse.
 
