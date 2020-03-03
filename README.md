@@ -1,9 +1,9 @@
 # Home Assistant Quick Restart Browser Extension
 Simple page action browser extension that allows you to quickly restart Home Assistant if an instance is detect on the active page.
 
-If button is active a Home Assistant instance has been detected and when click a configuration check will first be performed and if successful a restart will be called.
+Browser button will activate when a Home Assistance instance is detected in the active browser tab, and when click a configuration check will first be performed and if successful a restart will be called.
 
-- Only tested with HASSio via direct access or Nuba Casa remote link (Let me know if it works/doesn't work with other access method and Home Assistant)
+Works with local and remote network access (Nabu Casa, VPN) to Home Assistance.
 
 
 ## Installation
@@ -20,13 +20,13 @@ If button is active a Home Assistant instance has been detected and when click a
 
 ## Using The Extension
 
-### Button Click
+#### Button Click
 
 If Home Assistant is detected on the active broswer page, the buttion with become active (not grayed out), when you're ready to restart, give it a click (there is no "Are you sure", this is quick restart for a reason)
 
 ![Gif-Button Restart](https://github.com/warwickofthegh/Browser-Extension-Home-Assistant-Quick-Restart/blob/master/screenshots/gif-buttonclick.gif)
 
-### Keyboard Shortcuts
+#### Keyboard Shortcuts
 
 There is also keyboard shortcut available to save that transition time between keyboard and mouse.
 
@@ -35,22 +35,35 @@ Windows / Default: `Ctrl+Shift+H`
 Mac: `Ctrl+Shift+H`
 
 
+## How It Works
+
+#### Tab Load
+On browser tab load, extension will look for HassConnection object in session, if found button will be enabled, if not left disabled
+
+#### Button Click
+
+1. REST Api access_token extracted from HassConnection object, checked if valid by calling /apicheck, if invalid new token requested using refresh_token
+2. Config Check performed calling REST Api, if invalid the message is shown in extension pop-up
+3. Restart performed calling REST Api, status shown in extension pop-up
+
+
 ## Screenshots
 
-### Home Assistant Not Found
+#### Home Assistant Not Found
 ![HA not found on page](https://github.com/warwickofthegh/Browser-Extension-Home-Assistant-Quick-Restart/blob/master/screenshots/screenshot-nothapage.png)
 
-### Config Error
+#### Config Error
 
 ![Config Error](https://github.com/warwickofthegh/Browser-Extension-Home-Assistant-Quick-Restart/blob/master/screenshots/screenshot-configerror.png)
 
-### In Progress
+#### In Progress
 
 ![In Progress](https://github.com/warwickofthegh/Browser-Extension-Home-Assistant-Quick-Restart/blob/master/screenshots/screenshot-inprogress.png)
 
-### Completed
+#### Completed
 
 ![Completed](https://github.com/warwickofthegh/Browser-Extension-Home-Assistant-Quick-Restart/blob/master/screenshots/screenshot-completed.png)
+
 
 
 ## Support
