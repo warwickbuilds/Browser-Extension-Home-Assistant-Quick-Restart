@@ -7,7 +7,7 @@
 
 #### References
 
-*[Publish An Extension - MS Docs](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/publish/publish-extension)
+* [Publish An Extension - MS Docs](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/publish/publish-extension)
 
 
 ### Publishing Extension via the Chrome Web Store
