@@ -5,6 +5,7 @@ Browser button will activate when a Home Assistance instance is detected in the 
 
 Works with local and remote network access (Nabu Casa, VPN) to Home Assistance.
 
+[Home Assistant Forum Post - Quick Restart Chrome Browser Extension](https://community.home-assistant.io/t/quick-restart-chrome-browser-extension/154476)
 
 ## Installation
 
