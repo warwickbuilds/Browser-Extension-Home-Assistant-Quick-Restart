@@ -8,15 +8,17 @@ Works with local and remote network access (Nabu Casa, VPN) to Home Assistance.
 
 ## Installation
 
-#### Chromium Based Browser (Chrome / Edge / Brave)
+#### Chrome Webstore
 
 [<img src="https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png">](https://chrome.google.com/webstore/detail/home-assistant-quick-rest/eoekhnolflkjbpiafambpfemogdidlch)
 
-#### Firefox
+#### Firefox Addons
 
 [![Firefox Add-on](https://addons.cdn.mozilla.net/static/img/addons-buttons/AMO-button_1.png)](https://addons.mozilla.org/en-US/firefox/addon/home-assistant-quick-restart)
 
+#### Edge Add-ons - Microsoft Store
 
+[![Edge Add-on](screenshots/edge-addon-logo.png)](https://microsoftedge.microsoft.com/addons/detail/kolacdnkhgnmbgnfcekhdnkoghneemdf)
 
 ## Using The Extension
 
