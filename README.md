@@ -73,4 +73,6 @@ On browser tab load, extension will look for HassConnection object in session, i
  
 If you found value in this I thrive on coffee!
 
-[<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" >](https://www.buymeacoffee.com/ZRQ2mkM5XJp)
+<br/>
+<hr size="1">
+<a href="https://www.buymeacoffee.com/ZRQ2mkM5XJp" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/white_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
